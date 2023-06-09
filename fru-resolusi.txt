@@ -1,3 +1,4 @@
 Uzifru Resolusi
 - Menguasai Tailwindcss
 - Menguasai PHP -> Laravel
+- Menguasai Wordpress Dev
