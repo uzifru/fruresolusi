@@ -1,0 +1,3 @@
+Uzifru Resolusi
+- Menguasai Tailwindcss
+- Menguasai PHP -> Laravel
