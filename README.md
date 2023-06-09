@@ -1,0 +1,2 @@
+# fruresolusi
+Resolusi Uzifru
