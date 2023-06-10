@@ -1,8 +1,9 @@
 Uzifru Resolusi
 - Menguasai CSS
-  * Scss
+  * Scss / Sass
   * Bootstrap 5
   * Tailwindcss
 - Menguasai PHP
   * Codeigniter
+  * Laravel
 - Menguasai Wordpress Dev
